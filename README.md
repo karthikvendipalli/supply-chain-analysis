@@ -2,7 +2,7 @@
 
 This project analyzes supply chain efficiency using OT (On-Time), IF (In-Full), and OTIF (On-Time In-Full) metrics.
 
-🔗 **Live Report**: [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWFjN2U3N2ItOWRlMi00YTIwLThkZDMtMDdjNzFmZWZhNGYzIiwidCI6ImJjZDZjNTAzLTgzZmMtNDU4Ni04MDNlLWQ5OWViNmQ1MjVjNiJ9)
+🔗 **Live Report**: [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWFjN2U3N2ItOWRlMi00YTIwLThkZDMtMDdjNzFmZWZhNGYzIiwidCI6ImJjZDZjNTAzLTgzZmMtNDU4Ni04MDNlLWQ5OWViNmQ1MjVjNiJ9&pageName=3b64e463a7065ed90df4))
 
 ## 📊 Key Features
 - **Interactive filters** (month, year, city, product category)
