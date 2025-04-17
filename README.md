@@ -21,6 +21,8 @@ This project analyzes supply chain efficiency using OT (On-Time), IF (In-Full), 
 - DAX
 - Excel (for data preparation)
 - Power Query
+# Dashboard
+![image](https://github.com/user-attachments/assets/a6a80baa-c7cf-4803-986f-95fd25b3169a)
 
 ## 📁 Dataset
 Part of Codebasics Supply Chain Challenge
